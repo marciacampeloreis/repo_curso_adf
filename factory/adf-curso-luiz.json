@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-luiz",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9566ca84-69f6-4f3e-ad4f-fef449e6ddb8",
+		"tenantId": "2f02f6c5-ae96-4296-8633-f2f07a0e83ea"
+	}
+}
